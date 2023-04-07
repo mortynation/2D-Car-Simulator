@@ -1,4 +1,4 @@
-# Car Simulator
+# 2D Car Simulator
 
 __What it does?__
 
